@@ -7,11 +7,11 @@ The purpose of this analysis is to provide Bobby, an HR analyst at Pewlett Hacka
 ## Results
 
 In terms of retirements by title, Pewlett Hackard will see: 
-    - the largest loss in senior engineers, followed closely by senior staff
-    - significant lost in engineering-related titles, composing of approximately half of all predicted retirements
+- the largest loss in senior engineers, followed closely by senior staff
+- significant lost in engineering-related titles, composing of approximately half of all predicted retirements
 In terms of employees who are eligible for mentorship:
-    - there are nearly 1,550 employees who meet the provided eligibility criteria
-    - those who are eligible to participate come from a variety of titles, apprximately half in engineering-related roles
+- there are nearly 1,550 employees who meet the provided eligibility criteria
+- those who are eligible to participate come from a variety of titles, apprximately half in engineering-related roles
 
 ## Summary
 
